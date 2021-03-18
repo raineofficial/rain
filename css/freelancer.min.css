@@ -9,16 +9,16 @@ h1,h2,h3,h4,h5,h6{
 	font-family:Montserrat;
 }
 
-/*.bg-primary{background-color:#1858BC!important}
-.bg-secondary{background-color:#7FC0EE!important}*/
+/*.bg-primary{background-color:#18bc88!important}
+.bg-secondary{background-color:#7feeaf!important}*/
 
-.bg-primary{background-color:#1858BC!important}
-.bg-secondary{background-color:#7FC0EE!important}
-.text-primary{color:#1858BC!important}
-.text-secondary{color:#7FC0EE!important}
-.btn-primary{background-color:#1858BC;border-color:#1858BC}
+.bg-primary{background-color:#18bc88!important}
+.bg-secondary{background-color:#7feeaf!important}
+.text-primary{color:#18bc88!important}
+.text-secondary{color:#7feeaf!important}
+.btn-primary{background-color:#18bc88;border-color:#18bc88}
 .btn-primary:active,.btn-primary:focus,.btn-primary:hover{background-color:#128f76;border-color:#128f76}
-.btn-secondary{background-color:#7FC0EE;border-color:#7FC0EE}
+.btn-secondary{background-color:#7feeaf;border-color:#7feeaf}
 .btn-secondary:active,.btn-secondary:focus,.btn-secondary:hover{background-color:#1a252f;border-color:#1a252f}
 
 /*Styles for HR Tag*/
@@ -49,15 +49,15 @@ hr.star-light{
 
 hr.star-light:after{
 	color:#fff;
-	background-color:#1858BC
+	background-color:#18bc88
 }
 
 hr.star-dark{
-	border-color:#7FC0EE
+	border-color:#7feeaf
 }
 
 hr.star-dark:after{
-	color:#7FC0EE;
+	color:#7feeaf;
 	background-color:#fff
 }
 
@@ -122,13 +122,13 @@ section h2{
 #mainNav .navbar-brand{color:#fff}
 #mainNav .navbar-nav{margin-top:1rem;letter-spacing:.0625rem}
 #mainNav .navbar-nav li.nav-item a.nav-link{color:#fff}
-#mainNav .navbar-nav li.nav-item a.nav-link:hover{color:#7FC0EE}
+#mainNav .navbar-nav li.nav-item a.nav-link:hover{color:#7feeaf}
 #mainNav .navbar-nav li.nav-item a.nav-link:active,#mainNav .navbar-nav li.nav-item a.nav-link:focus{color:#fff}
-#mainNav .navbar-nav li.nav-item a.nav-link.active{color:#7FC0EE}
+#mainNav .navbar-nav li.nav-item a.nav-link.active{color:#7feeaf}
 #mainNav .navbar-toggler{font-size:80%;padding:.8rem}@media (min-width:992px){#mainNav{padding-top:1.5rem;padding-bottom:1.5rem;-webkit-transition:padding-top .3s,padding-bottom .3s;transition:padding-top .3s,padding-bottom .3s}
 #mainNav .navbar-brand{font-size:2em;-webkit-transition:font-size .3s;transition:font-size .3s}
-#mainNav .navbar-nav{margin-top:0}#mainNav .navbar-nav>li.nav-item>a.nav-link.active{color:#fff;background:#7FC0EE}
-#mainNav .navbar-nav>li.nav-item>a.nav-link.active:active,#mainNav .navbar-nav>li.nav-item>a.nav-link.active:focus,#mainNav .navbar-nav>li.nav-item>a.nav-link.active:hover{color:#fff;background:#7FC0EE}
+#mainNav .navbar-nav{margin-top:0}#mainNav .navbar-nav>li.nav-item>a.nav-link.active{color:#fff;background:#7feeaf}
+#mainNav .navbar-nav>li.nav-item>a.nav-link.active:active,#mainNav .navbar-nav>li.nav-item>a.nav-link.active:focus,#mainNav .navbar-nav>li.nav-item>a.nav-link.active:hover{color:#fff;background:#7feeaf}
 #mainNav.navbar-shrink{padding-top:.5rem;padding-bottom:.5rem}
 #mainNav.navbar-shrink .navbar-brand{font-size:1.5em}}
 
@@ -146,7 +146,7 @@ header.masthead h2{font-size:1.75em}}
 /*Styles for List of Portfolio*/
 .portfolio{margin-bottom:-15px}
 .portfolio .portfolio-item{position:relative;display:block;max-width:25rem;margin-bottom:15px}
-.portfolio .portfolio-item .portfolio-item-caption{-webkit-transition:all ease .5s;transition:all ease .5s;opacity:0;background-color:rgba(28,88,188,.9)}
+.portfolio .portfolio-item .portfolio-item-caption{-webkit-transition:all ease .5s;transition:all ease .5s;opacity:0;background-color:rgba(24,188,136,.8)}
 .portfolio .portfolio-item .portfolio-item-caption:hover{opacity:1}
 .portfolio .portfolio-item .portfolio-item-caption .portfolio-item-caption-content{font-size:1.5rem}
 @media (min-width:576px){.portfolio{margin-bottom:-30px}.portfolio .portfolio-item{margin-bottom:30px}}
@@ -184,7 +184,7 @@ span.hashtags:hover {
 .floating-label-form-group label{font-size:.85em;line-height:1.764705882em;position:relative;z-index:0;top:2em;display:block;margin:0;-webkit-transition:top .3s ease,opacity .3s ease;transition:top .3s ease,opacity .3s ease;vertical-align:middle;vertical-align:baseline;opacity:0}
 .floating-label-form-group:not(:first-child){padding-left:14px;border-left:1px solid #e9ecef}
 .floating-label-form-group-with-value label{top:0;opacity:1}
-.floating-label-form-group-with-focus label{color:#1858BC}
+.floating-label-form-group-with-focus label{color:#18bc88}
 form .row:first-child .floating-label-form-group{border-top:1px solid #e9ecef}
 
 .contact-label {
@@ -192,14 +192,14 @@ form .row:first-child .floating-label-form-group{border-top:1px solid #e9ecef}
 }
 
 .contact-info {
-	color: #1858BC;
+	color: #18bc88;
 	font-weight: bold;
 	font-style: italic;
 }
 
 /*Styles for Footer*/
-.footer{padding-top:2rem;padding-bottom:1rem;background-color:#7FC0EE;color:#fff}
-.copyright{background-color:#1a252f}a{color:#1858BC}a:active,a:focus,a:hover{color:#128f76}
+.footer{padding-top:2rem;padding-bottom:1rem;background-color:#7feeaf;color:#fff}
+.copyright{background-color:#1a252f}a{color:#18bc88}a:active,a:focus,a:hover{color:#128f76}
 .btn{border-width:2px}
 
 
@@ -217,7 +217,7 @@ form .row:first-child .floating-label-form-group{border-top:1px solid #e9ecef}
 }
 
 .skills-area:hover {
-  background-color: #7FC0EE;
+  background-color: #7feeaf;
 }
 
 .skills_description {
@@ -226,7 +226,7 @@ form .row:first-child .floating-label-form-group{border-top:1px solid #e9ecef}
 
 .skills_1, .skills_2, .skills_3, .skills_4, .skills_5,
 .skills_6, .skills_7, .skills_8 {
-  background-color: #1858BC;
+  background-color: #18bc88;
 }
 
 .skills_1, .skills_2, .skills_7 {
