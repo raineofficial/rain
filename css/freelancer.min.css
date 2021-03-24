@@ -10,15 +10,25 @@ h1,h2,h3,h4,h5,h6{
 }
 
 /*.bg-primary{background-color:#18bc88!important}
-.bg-secondary{background-color:#7feeaf!important}*/
+.bg-secondary{background-color:#f0f0f0!important}*/
+/*background: #2C3E50; 
+background: -webkit-linear-gradient(to right, #4CA1AF, #2C3E50); 
+background: linear-gradient(to right, #4CA1AF, #2C3E50); 
 
-.bg-primary{background-color:#18bc88!important}
-.bg-secondary{background-color:#7feeaf!important}
-.text-primary{color:#18bc88!important}
-.text-secondary{color:#7feeaf!important}
+
+18bc88
+f0f0f0*/
+.bg-primary{
+background: #2C3E50;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #4CA1AF, #2C3E50);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #4CA1AF, #2C3E50); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.bg-secondary{background-color:#f0f0f0!important}
+.text-primary{color:#2C3E50!important}
+.text-secondary{color:#f0f0f0!important}
 .btn-primary{background-color:#18bc88;border-color:#18bc88}
 .btn-primary:active,.btn-primary:focus,.btn-primary:hover{background-color:#128f76;border-color:#128f76}
-.btn-secondary{background-color:#7feeaf;border-color:#7feeaf}
+.btn-secondary{background-color:#f0f0f0;border-color:#f0f0f0}
 .btn-secondary:active,.btn-secondary:focus,.btn-secondary:hover{background-color:#1a252f;border-color:#1a252f}
 
 /*Styles for HR Tag*/
@@ -53,11 +63,11 @@ hr.star-light:after{
 }
 
 hr.star-dark{
-	border-color:#7feeaf
+	border-color:#f0f0f0
 }
 
 hr.star-dark:after{
-	color:#7feeaf;
+	color:#f0f0f0;
 	background-color:#fff
 }
 
@@ -122,13 +132,13 @@ section h2{
 #mainNav .navbar-brand{color:#fff}
 #mainNav .navbar-nav{margin-top:1rem;letter-spacing:.0625rem}
 #mainNav .navbar-nav li.nav-item a.nav-link{color:#fff}
-#mainNav .navbar-nav li.nav-item a.nav-link:hover{color:#7feeaf}
+#mainNav .navbar-nav li.nav-item a.nav-link:hover{color:#f0f0f0}
 #mainNav .navbar-nav li.nav-item a.nav-link:active,#mainNav .navbar-nav li.nav-item a.nav-link:focus{color:#fff}
-#mainNav .navbar-nav li.nav-item a.nav-link.active{color:#7feeaf}
+#mainNav .navbar-nav li.nav-item a.nav-link.active{color:#f0f0f0}
 #mainNav .navbar-toggler{font-size:80%;padding:.8rem}@media (min-width:992px){#mainNav{padding-top:1.5rem;padding-bottom:1.5rem;-webkit-transition:padding-top .3s,padding-bottom .3s;transition:padding-top .3s,padding-bottom .3s}
 #mainNav .navbar-brand{font-size:2em;-webkit-transition:font-size .3s;transition:font-size .3s}
-#mainNav .navbar-nav{margin-top:0}#mainNav .navbar-nav>li.nav-item>a.nav-link.active{color:#fff;background:#7feeaf}
-#mainNav .navbar-nav>li.nav-item>a.nav-link.active:active,#mainNav .navbar-nav>li.nav-item>a.nav-link.active:focus,#mainNav .navbar-nav>li.nav-item>a.nav-link.active:hover{color:#fff;background:#7feeaf}
+#mainNav .navbar-nav{margin-top:0}#mainNav .navbar-nav>li.nav-item>a.nav-link.active{color:#fff;background:#f0f0f0}
+#mainNav .navbar-nav>li.nav-item>a.nav-link.active:active,#mainNav .navbar-nav>li.nav-item>a.nav-link.active:focus,#mainNav .navbar-nav>li.nav-item>a.nav-link.active:hover{color:#fff;background:#f0f0f0}
 #mainNav.navbar-shrink{padding-top:.5rem;padding-bottom:.5rem}
 #mainNav.navbar-shrink .navbar-brand{font-size:1.5em}}
 
@@ -136,6 +146,14 @@ section h2{
 header.masthead{
 	padding-top:calc(6rem + 72px);
 	padding-bottom:6rem;
+}
+.masthead {
+  height: 100vh;
+  min-height: 500px;
+  background-image: url("../img/header.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 header.masthead h1{font-size:3rem;line-height:3rem}
 header.masthead h2{font-size:1.3rem;font-family:Lato}
@@ -197,7 +215,7 @@ form .row:first-child .floating-label-form-group{border-top:1px solid #e9ecef}
 }
 
 /*Styles for Footer*/
-.footer{padding-top:2rem;padding-bottom:1rem;background-color:#7feeaf;color:#fff}
+.footer{padding-top:2rem;padding-bottom:1rem;background-color:#f0f0f0;color:#fff}
 .copyright{background-color:#1a252f}a{color:#18bc88}a:active,a:focus,a:hover{color:#128f76}
 .btn{border-width:2px}
 
@@ -216,7 +234,7 @@ form .row:first-child .floating-label-form-group{border-top:1px solid #e9ecef}
 }
 
 .skills-area:hover {
-  background-color: #7feeaf;
+  background-color: #f0f0f0;
 }
 
 .skills_description {
