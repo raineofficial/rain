@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="18.8443mm" height="6.1021mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 868.71 281.3"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="766" font-variant="normal" style="fill-rule:nonzero" font-weight="700">
+	<font-face 
+		font-family="Montserrat">
+		<font-face-src>
+			<font-face-name name="Montserrat Bold"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="A" horiz-adv-x="766" d="M544.012 150.003l-325.001 0 -62.0049 -150.003 -166.002 0 311.992 699.995 159.996 0 313.015 -699.995 -170.015 0 -61.9787 150.003zm-51.0151 122.987l-111 268.006 -111 -268.006 222.001 0z"/>
+   <glyph unicode="E" horiz-adv-x="671" d="M625.007 129.99l0 -129.99 -542.019 0 0 699.995 529.009 0 0 -129.99 -367.99 0 0 -151.996 325.001 0 0 -126.003 -325.001 0 0 -162.015 381 0z"/>
+   <glyph unicode="I" horiz-adv-x="327" d="M82.988 699.995l162.015 0 0 -699.995 -162.015 0 0 699.995z"/>
+   <glyph unicode="N" horiz-adv-x="808" d="M724.991 699.995l0 -699.995 -132.98 0 -349.001 425.012 0 -425.012 -160.022 0 0 699.995 134.003 0 348.004 -424.986 0 424.986 159.996 0z"/>
+   <glyph unicode="R" horiz-adv-x="735" d="M529.009 0l-135 195.011 -7.99979 0 -141.006 0 0 -195.011 -162.015 0 0 699.995 303.022 0c61.9787,0 115.826,-10.3342 161.491,-31.0025 45.6644,-20.6683 80.8372,-49.9921 105.492,-87.9977 24.6813,-38.0056 37.0089,-82.988 37.0089,-135 0,-51.9855 -12.5111,-96.8368 -37.5072,-134.501 -24.9961,-37.6646 -60.4837,-66.4901 -106.489,-86.5026l157.006 -224.991 -174.002 0zm-3.01631 445.995c0,39.3432 -12.6685,69.5064 -38.0056,90.5157 -25.3108,20.9831 -62.3197,31.5008 -110.974,31.5008l-132.01 0 0 -244.007 132.01 0c48.6545,0 85.6633,10.6751 110.974,31.9992 25.337,21.324 38.0056,51.3298 38.0056,89.9911z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Montserrat";font-variant:normal;font-weight:bold;src:url("#FontID0") format(svg)}
+    .fil1 {fill:black}
+    .fil0 {fill:url(#id0)}
+    .fnt0 {font-weight:bold;font-size:175.76px;font-family:'Montserrat'}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="103.33" y1="0" x2="103.34" y2="281.3">
+   <stop offset="0" style="stop-opacity:1; stop-color:#22D159"/>
+   <stop offset="0.25098" style="stop-opacity:1; stop-color:#0093C4"/>
+   <stop offset="0.521569" style="stop-opacity:1; stop-color:#5318AB"/>
+   <stop offset="0.768627" style="stop-opacity:1; stop-color:#0093C4"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#22D159"/>
+  </linearGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0" d="M0.66 192.09c-7.25,-57.97 46.35,-150.84 102.67,-192.09 56.33,41.25 109.92,134.12 102.68,192.09 -14.87,118.95 -190.48,118.95 -205.35,0z"/>
+  <text x="295.38" y="238.95"  class="fil1 fnt0">RAINE</text>
+ </g>
+</svg>
