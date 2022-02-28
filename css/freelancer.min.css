@@ -9,9 +9,13 @@
 		font-family:Montserrat;
 	}
 	.bg-primary{
-		background: #FC466B;
-		background: -webkit-linear-gradient(to right, #3F5EFB, #FC466B);
-		background: linear-gradient(to right, #3F5EFB, #FC466B); 
+		/*background: #FC466B;
+		background: -webkit-linear-gradient(to right, #480048, #FC466B);
+		background: linear-gradient(to right, #480048, #FC466B); */
+
+		background: #C04848; 
+		background: -webkit-linear-gradient(to right, #480048, #C04848);  
+		background: linear-gradient(to right, #480048, #C04848); 
 	}
 	.bg-secondary{
 		background-color:#f0f0f0!important
@@ -23,14 +27,14 @@
 		color:#f0f0f0!important
 	}
 	.btn-primary{
-		background: #FC466B; 
-		background: -webkit-linear-gradient(to right, #4CA1AF, #FC466B);  
-		background: linear-gradient(to right, #4CA1AF, #FC466B); 
+		background: #C04848; 
+		background: -webkit-linear-gradient(to right, #480048, #C04848);  
+		background: linear-gradient(to right, #480048, #C04848);
 		border-color:#18bc88
 	}
 	.btn-primary:active,.btn-primary:focus,.btn-primary:hover{
-		background-color:#5318AB;
-		border-color:#5318AB
+		background-color:#480048;
+		border-color:#480048
 	}
 	.btn-secondary{
 		background-color:#f0f0f0;
@@ -109,8 +113,8 @@
 		border-color: red;
 	}
 	.btn-social:hover{
-		background-color: #3F5EFB;
-		border-color: #3F5EFB;
+		background-color: #dc2430;
+		border-color: #dc2430;
 	}
 
 
@@ -140,7 +144,8 @@
 		color:#FC466B;
 	}
 	#mainNav .navbar-nav li.nav-item a.nav-link:hover{
-		color:#3F5EFB;
+		color:#dc2430;
+		text-decoration: underline;
 	}
 
 
@@ -276,7 +281,7 @@
 	.copyright{
 		background-color:#1a252f
 	}
-	a{color:#FC466B}a:active,a:focus,a:hover{color:#5318AB}
+	a{color:#FC466B}a:active,a:focus,a:hover{color:#480048}
 	.btn{
 		border-width:2px
 	}
@@ -297,18 +302,22 @@
 	  color: white;
 	}
 	.skills-area:hover {
-	background: #C33764;
+/*	background: #C33764; 
 	background: -webkit-linear-gradient(to right, #1D2671, #C33764); 
-	background: linear-gradient(to right, #1D2671, #C33764);
+	background: linear-gradient(to right, #1D2671, #C33764); */
+	background: #7b4397;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #dc2430, #7b4397);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #dc2430, #7b4397); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
 	}
 	.skills_description {
 		font-size: small;
 	}
 	.skills_1, .skills_2, .skills_3, .skills_4, .skills_5,
 	.skills_6, .skills_7, .skills_8 {
-	background: #FC466B;  
-	background: -webkit-linear-gradient(to right, #3F5EFB, #FC466B); 
-	background: linear-gradient(to right, #3F5EFB, #FC466B); 
+	background: #C04848; 
+	background: -webkit-linear-gradient(to right, #480048, #C04848);  
+	background: linear-gradient(to right, #480048, #C04848);
 	}
 	.skills_1, .skills_4 {
 		width: 80%;
