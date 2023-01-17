@@ -29,16 +29,11 @@ viewBox="0 0 868.71 281.3"
    ]]>
   </style>
   <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="103.33" y1="0" x2="103.34" y2="281.3">
-<!--    <stop offset="0" style="stop-opacity:1; stop-color:#22D159"/>
-   <stop offset="0.25098" style="stop-opacity:1; stop-color:#0093C4"/>
-   <stop offset="0.521569" style="stop-opacity:1; stop-color:#5318AB"/>
-   <stop offset="0.768627" style="stop-opacity:1; stop-color:#0093C4"/>
-   <stop offset="1" style="stop-opacity:1; stop-color:#22D159"/> -->
-   <stop offset="0" style="stop-opacity:1; stop-color:#C04848"/>
-   <stop offset="0.25098" style="stop-opacity:1; stop-color:#480048"/>
-   <stop offset="0.521569" style="stop-opacity:1; stop-color:#ff00cc"/>
-   <stop offset="0.768627" style="stop-opacity:1; stop-color:#480048"/>
-   <stop offset="1" style="stop-opacity:1; stop-color:#C04848"/>
+   <stop offset="0" style="stop-opacity:1; stop-color:#5455C8"/>
+   <stop offset="0.25098" style="stop-opacity:1; stop-color:#547EC8"/>
+   <stop offset="0.521569" style="stop-opacity:1; stop-color:#54AFC8"/>
+   <stop offset="0.768627" style="stop-opacity:1; stop-color:#547EC8"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#5455C8"/>
   </linearGradient>
  </defs>
  <g id="Layer_x0020_1">
